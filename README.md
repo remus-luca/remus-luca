@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div>
-<a href="https://www.linkedin.com/in/remus-luca-238b6220a" target="_blank">
+<a href="https://www.linkedin.com/in/remus-luca" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
   </a>
 </div>
