@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remus-luca&label=Profile%20views&color=0e75b6&style=flat" alt="remus-luca" /> </p>
 
-- 🌱 I’m currently learning **Angular** **.Net**
+- 🌱 I’m currently learning **React** **Angular**
 
 - 📫 How to reach me **lucaremusmarian@yahoo.com**
 
